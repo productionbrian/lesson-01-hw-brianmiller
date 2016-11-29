@@ -1,0 +1,65 @@
+  body {
+    background-color: white;
+    text: black;
+    font-family: sans-serif;
+    margin: 0px 20px 0px 20px
+  }
+  h1,h2,h3,h4 {
+    font-family: sans-serif;
+    margin: 0px 0px 0px 20px;
+    text: black;
+  }
+  hr {
+    80%;
+  }
+  header {
+    height: 200px;
+    text-align: center;
+    background: url('images/iStock_85143437_LARGE.jpg');
+    background-image: cover
+    margin: 0px 0px 0px 0px;
+    text: black;
+    font-family: sans-serif;
+  }
+  p {
+    margin: 30px 20px 0px 10px;
+  }
+  p.experience {
+    margin: 0px 0px 20px 20px;
+  }
+  span.experience {
+    background: #e1d6d6;
+  }
+  article {
+    margin: 0px 0px 20px 20px;
+  }
+  a {
+    color: black;
+  }
+  td {
+    padding: 0px 30px 0px 30px;
+  }
+  img {
+    align-items: center;
+    margin: 20px 0px 40px 20px;
+    border: 0px solid white;
+    border-radius: 0;
+  }
+  ul {
+    text-align: center;
+    padding: 10px;
+    background: none;
+    font: sans-serif;
+  }
+  li {
+    display: block inline;
+    float: left;
+    padding: 0px 30px 0px 30px;
+    color: black;
+  }
+  li.education {
+    background: #e1d6d6;
+  }
+  aside {
+    align: right
+  }
